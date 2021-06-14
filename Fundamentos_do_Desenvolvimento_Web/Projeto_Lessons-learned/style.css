@@ -1,0 +1,226 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: ' Segoe UI ', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#cabecalho {
+  background-color: darkblue;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+.foto-tabela {
+  text-align: center;
+}
+
+.foto-tabela section {
+  display: inline-block;
+}
+
+.tabela {
+  border-collapse: collapse;
+  display: block;
+  font-size: 0.8em;
+  margin: 180px auto;
+}
+
+.tabela td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#titulo {
+  border: 1px solid blue;
+  color: white;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+#navbar {
+  background-color: cadetblue;
+}
+
+#licoes_aprendidas li {
+  margin-bottom: 5px;
+  margin-left: 40px;
+}
+
+#licoes_a_aprender li {
+  margin-bottom: 5px;
+  margin-left: 30px;
+}
+
+#navbar ul li {
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+}
+
+#navbar li a {
+  background-color: blue;
+  border-radius: 8px;
+  color: white;
+  font-family: fantasy;
+  font-weight: 900;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+#rodape .links a {
+  background-color: white;
+  border-radius: 8px;
+  color: black;
+  font-weight: 900;
+  margin-left: 20px;
+  text-decoration: none;
+  padding: 5px;
+}
+
+#navbar li a:hover {
+  background-color: white;
+  border: 2px solid blue;
+  color: black;
+}
+
+.navegacao {
+  text-align: center;
+}
+
+.container {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 20px auto;
+  width: 80%;
+  padding: 10px;
+}
+
+#minha_foto {
+  border-radius: 50px;
+  display: block;
+  margin: 150px 60px;
+  width: 180px;
+  padding: 10px;
+}
+
+.licoes_aprendidas {
+  width: 40%;
+  padding: 10px;
+  text-align: center;
+}
+
+#licoes_aprendidas {
+  background-color: green;
+  border-radius: 8px;
+  float: left;
+  font-weight: 900;
+  width: 40%;
+  padding: 10px;
+}
+
+#licoes_aprendidas:hover {
+  background-color: white;
+  border: 3px solid green;
+  color: black;
+}
+
+.licoes_a_aprender {
+  width: 40%;
+  margin-top: -50px;
+  margin-left: 595px;
+  padding: 10px;
+  text-align: center;
+}
+
+#licoes_a_aprender {
+  background-color: red;
+  border-radius: 8px;
+  color: white;
+  font-weight: 900;
+  float: right;
+  width: 40%;
+  padding: 10px;
+}
+
+#licoes_a_aprender:hover {
+  background-color: white;
+  border: 3px solid red;
+  color: black;
+}
+
+.listas {
+  width: 100%;
+}
+
+.lado-esquerdo {
+  clear: both;
+  float: left;
+  margin-top: 200px;
+  width: 60%;
+  padding: 10px;
+}
+
+.lado-esquerdo h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.lado-esquerdo p {
+  line-height: 1.5em;
+  text-align: justify;
+}
+
+.lado-direito {
+  background-color: black;
+  border-radius: 15px 40px 40px 0;
+  color: white;
+  float: right;
+  margin-top: 200px;
+  width: 15%;
+  padding: 10px;
+}
+
+#rodape {
+  background-color: darkblue;
+  color: white;
+  clear: both;
+  font-size: 0.7em;
+  margin-top: 1200px;
+  padding: 25px;
+}
+
+#rodape div {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#rodape span {
+  width: 60%;
+  margin: 0 auto;
+}
+
+#rodape .links {
+  margin-left: 600px;
+}
+
+#rodape .links a:hover {
+  background-color: black;
+  color: white;
+}
+
+.negrito {
+  background-color: darkcyan;
+  color: white;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.destaque:hover {
+  background-color: lightslategrey;
+}
