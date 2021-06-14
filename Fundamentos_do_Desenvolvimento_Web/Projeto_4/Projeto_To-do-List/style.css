@@ -1,0 +1,19 @@
+#titulo {
+  text-align: center;
+}
+
+#funcionamento {
+  text-align: center;
+}
+
+.cinza {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through black;
+}
+
+#apaga-tudo {
+  margin-top: 30px;
+}
