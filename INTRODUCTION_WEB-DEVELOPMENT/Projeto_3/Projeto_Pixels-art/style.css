@@ -78,7 +78,9 @@ body {
 }
 
 #pixel-board {
-  margin: 15px auto;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
   width: 210px;
   height: 210px;
 }

@@ -100,7 +100,9 @@ function setPixelFrameSize() {
         chosenDivFrame.className = 'pixel';
         pixelBoard.appendChild(chosenDivFrame);
         const boardWidth = (N * 42);
+        const boardHeight = (N * 42);
         pixelBoard.style.width = boardWidth + 'px';
+        pixelBoard.style.height = boardHeight + 'px';
       }
     }
   });
