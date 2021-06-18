@@ -29,3 +29,10 @@ Esse projeto foi apenas sobre lógica de programação em Javascript, feito no p
 [Meu código](https://github.com/joaobruno05/projetos_trybe/tree/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_3/Projeto_Pixels-art)
 
 <br>
+
+## Projeto 4: To Do List
+<img src ="https://github.com/joaobruno05/projetos_trybe/blob/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_4/Projeto_To-do-List/To-Do-List-Project.gif" width="800">
+
+[Meu código](https://github.com/joaobruno05/projetos_trybe/tree/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_4/Projeto_To-do-List)
+
+<br>
