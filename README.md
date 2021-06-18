@@ -8,7 +8,7 @@ Aqui vou colocar todos os meus projetos realizados na Trybe!
 
 <br>
 
-<img src="https://github.com/joaobruno05/projetos_trybe/blob/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_1/Projeto_Lessons-learned/First-Project-Trybe.gif" width="800">
+<img src="https://github.com/joaobruno05/projetos_trybe/blob/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_1/Projeto_Lessons-learned/First-Project-Trybe.gif">
 
 [Meu código](https://github.com/joaobruno05/projetos_trybe/tree/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_1/Projeto_Lessons-learned)
 
@@ -24,14 +24,14 @@ Esse projeto foi apenas sobre lógica de programação em Javascript, feito no p
 
 ## Projeto 3: Pixels Art
 
-<img src="https://github.com/joaobruno05/projetos_trybe/blob/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_3/Projeto_Pixels-art/Project-Pixels-Art.gif" width="800">
+<img src="https://github.com/joaobruno05/projetos_trybe/blob/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_3/Projeto_Pixels-art/Project-Pixels-Art.gif">
 
 [Meu código](https://github.com/joaobruno05/projetos_trybe/tree/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_3/Projeto_Pixels-art)
 
 <br>
 
 ## Projeto 4: To Do List
-<img src ="https://github.com/joaobruno05/projetos_trybe/blob/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_4/Projeto_To-do-List/To-Do-List-Project.gif" width="800">
+<img src ="https://github.com/joaobruno05/projetos_trybe/blob/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_4/Projeto_To-do-List/To-Do-List-Project.gif">
 
 [Meu código](https://github.com/joaobruno05/projetos_trybe/tree/master/INTRODUCTION_WEB-DEVELOPMENT/Projeto_4/Projeto_To-do-List)
 
